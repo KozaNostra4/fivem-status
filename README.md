@@ -13,9 +13,9 @@
 
 `3.` Open PowerShell window here
 
-`4.` Press npm init -y
+`4.` Press `npm init -y`
 
-`5.` Then press again npm i 
+`5.` Then press again `npm i` 
 
 `6.` Press `clear` to clear the console and then press `node .`
 
