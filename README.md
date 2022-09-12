@@ -54,7 +54,8 @@ You can use command `prefix`status and you will see the Online players and Total
 
 `9.` MESSAGESTATUS: The message that will be displayed in the middle of the Live Status System. 
 
-Example: ```
+Example: 
+```
 **Below you will find information about how to Log In our FiveM Server**\n\n `1.` **Open FiveM**\n `2.` **Press F8**\n `3.` **Now copy paste** `connect 111.11.1.11:30120`
 ```
 
