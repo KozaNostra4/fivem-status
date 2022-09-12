@@ -4,7 +4,7 @@ const axios = require('axios')
 const cron = require('cron'); 
 
 const client = new Discord.Client({
-    partials: ["MESSAGE", "CHANNEL", "REACTION"],
+    partials: ["MESSAGE", "CHANNEL"],
     intents: 32767,
 });
 
