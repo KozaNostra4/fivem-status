@@ -1,5 +1,4 @@
-# fivem-status
-Live Status and Command Status for FiveM server
+# Live Status and Command Status for FiveM server
 
 `Credits for queue system: Cr1MsOn#8806`
 
