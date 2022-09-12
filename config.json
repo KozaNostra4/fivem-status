@@ -1,0 +1,11 @@
+{
+    "token": "TOKEN",
+    "prefix": "!",
+    "guildID": "973289814017324404",
+    "ip": "111.11.1.11",
+    "port": "30120",
+    "statusChannel": "1018874440718749697",
+    "onlineEmoji": "circle_green",
+    "offlineEmoji": "circle_red",
+    "messageStatus": "**Below you will find information about how to Log In our FiveM Server**\n\n `1.` **Open FiveM**\n `2.` **Press F8**\n `3.` **Now copy paste** `connect 111.11.1.11:30120`" 
+}
