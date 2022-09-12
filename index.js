@@ -46,7 +46,7 @@ client.on('ready', async () => {
         .setColor('GREEN')
         .setDescription(`${message}`)
         .addFields(
-            {name:'Status', value: `${onlineEmoji} Online`, inline: true},
+            {name: '**Status**', value: `${onlineEmoji} Online`, inline: true},
             {name: "**Players**", value: `${data.clients}/${data.sv_maxclients}`, inline: true},
             {name: "**Queue**", value: `${queue[1]}`, inline: true})
         channel.messages.fetch().then((messages) => {
@@ -78,7 +78,7 @@ client.on('ready', async () => {
         .setAuthor(guild.name, guild.iconURL({dynamic: true}))
         .setDescription(`${message}`)
         .addFields(
-            {name:'Status', value: `${onlineEmoji} Online`, inline: true},
+            {name: '**Status**', value: `${onlineEmoji} Online`, inline: true},
             {name: "**Players**", value: `${data.clients}/${data.sv_maxclients}`, inline: true},
             {name: "**Queue**", value: `0`, inline: true})
         channel.messages.fetch().then((messages) => {
